@@ -1,0 +1,18 @@
+Metadata-Version: 2.1
+Name: timelog
+Version: 0.0.1
+Summary: Timelog tracker
+Home-page: UNKNOWN
+Author: WolffParkinson
+License: MIT
+Keywords: python,timelog,time
+Platform: UNKNOWN
+Classifier: Development Status :: 2 - Pre-Alpha
+Classifier: Intended Audience :: Developers
+Classifier: Operating System :: Microsoft :: Windows
+Classifier: Topic :: Database
+Classifier: Programming Language :: Python :: 3.9
+License-File: LICENCE
+
+Measures time between events and collects events in between
+
